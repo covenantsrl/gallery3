@@ -240,6 +240,7 @@ header .logo-2 {
     color: #fff;
     font-size: 40px;
     font-weight: 300;
+    max-width: 230px;
 }
 
 header .logo-2 {
