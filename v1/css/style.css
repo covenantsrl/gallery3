@@ -17394,3 +17394,7 @@ img {
 #subheader {
     padding-bottom: 0px;
 }
+/*header coming soon*/
+header.header-mobile {
+    height: auto;
+}
