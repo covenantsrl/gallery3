@@ -17398,3 +17398,10 @@ img {
 header.header-mobile {
     height: auto;
 }
+.gold {
+    background: linear-gradient(90deg, #FFD700, #FFA500, #FFD700);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-weight: bold;
+}
