@@ -2032,6 +2032,7 @@
          masonry();
          custom_bg();
          menu_arrow();
+         window.menu_arrow = menu_arrow;
          filter_gallery();
          custom_elements();
          init(); 
